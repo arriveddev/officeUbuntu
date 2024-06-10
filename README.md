@@ -1,12 +1,12 @@
 # How to install Microsoft Office on Ubuntu 20.04/22.04/24.04 LINUX
 
 ## Step 1. Enable 32-bit support
-sudo dpkg --add-architecture i386
+sudo dpkg --add-architecture i386;
 
 ## Step 2. Install winbind and winetricks
-sudo apt update && sudo apt upgrade
-sudo apt-get install winbind
-sudo apt-get install -y winetricks
+sudo apt update && sudo apt upgrade;
+sudo apt-get install winbind;
+sudo apt-get install -y winetricks;
 
 ## Step 3. Install PlayOnLinux
 sudo apt install playonlinux
