@@ -11,8 +11,10 @@ sudo apt-get install -y winetricks;
 ## Step 3. Install PlayOnLinux
 sudo apt install playonlinux
 
-## Step 4. Install Office 2016 on Ubuntu
+## Step 4. Prepare Office 2016 exe file
 Prepare the Office 2016 installer: If you don't have it already, click here to download Microsoft Office 2016 Full 32/64-bit. (https://arriveddev.com/office-2016-professional-plus-full-activate/)
+
+## Step 5: Install Office 2016 on Ubuntu
 Open the menu and search for "PlayOnLinux". Click on it to launch the application.
 
 Click Office -> Install, select Microsoft Office 2016 Method B.
