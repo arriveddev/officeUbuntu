@@ -1,4 +1,4 @@
-# How to install Microsoft Office on Ubuntu 20.04/22.04/24.04 LINUX
+# How to install Microsoft Office on Ubuntu 22.04/24.04
 
 ## Step 1. Enable 32-bit support
 sudo dpkg --add-architecture i386;
